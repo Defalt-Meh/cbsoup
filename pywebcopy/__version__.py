@@ -1,0 +1,7 @@
+__title__ = "cbsoup"
+__url__ = ""
+__author__ = "Raja Tomar"
+__email__ = "rajatomar788@gmail.com"
+__license__ = "Apache Software License"
+__version__ = "7.1"
+__description__ = "Python library to clone/archive pages or sites from the Internet."

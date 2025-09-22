@@ -1,0 +1,6 @@
+setuptools
+six
+requests
+lxml
+lxml_html_clean
+cachecontrol
